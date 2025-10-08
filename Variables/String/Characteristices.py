@@ -45,3 +45,37 @@ print("String 2:", str_2)
 # replacing 'fun' with 'amazing'  
 print("After replacing 'fun' with 'amazing':")  
 print(str_2.replace("fun", "amazing"))
+
+
+#String Concatenation and Repetition
+
+str_1 = "Icon"
+str_2 = "chidku"
+
+str_3 = str_1 + " " + str_2
+print("Concatenation string:",str_3)
+
+str_4 = str_1 * 4
+print("Repetition string:",str_4)
+
+
+#using f-string
+
+Name = "sangi"
+Age = 21
+City = "Pimpri"
+
+print(f'{Name} is a {Age} years old girl living in {City}.')
+
+
+#Uppercase and Lowercase string
+
+str_1 = "Icon"
+print("string_1:",str_1)
+
+#Using Upper()method
+print("Uppercase String:",str_1.upper())
+
+#Using Lower()method
+print("Lowercase String:",str_1.lower())
+  

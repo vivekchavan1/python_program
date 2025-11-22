@@ -34,6 +34,7 @@ is_even = filter(lambda a : a % 2==0,num)
 
 print(list(is_even))
 
+
 #using lambda with map()
 
 num = [1,2,4,6,8]

@@ -15,7 +15,7 @@
 # res = math.ceil(n)  
 # print(res)
 
-#Floor() module
+# Floor() module
 # import math
 
 # n = float(input("Enter a number: "))
@@ -32,7 +32,7 @@
 # print(res)
 
 
-#How to print the value of pi
+# How to print the value of pi
 
-import math
-print(math.pi)
+# import math
+# print(math.pi)

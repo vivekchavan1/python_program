@@ -1,3 +1,5 @@
+#creating constructor in pythyon
+
 class Employee:
     def __init__ (self,name,id):
         self.id = id

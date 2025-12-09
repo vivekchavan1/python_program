@@ -44,7 +44,7 @@ tesla.show_info()
 print(tesla._model)  
 
 
-#Protected Member
+#Private Member
 
 class BankAccount:  
     def __init__(self, account_number, balance):  
